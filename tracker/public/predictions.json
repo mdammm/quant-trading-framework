@@ -1,0 +1,416 @@
+{
+  "2026-04-28": {
+    "date": "2026-04-28",
+    "logged_at": "2026-04-28T19:56:42.573087",
+    "btc_close": 76345.2,
+    "predictions": [],
+    "scored": false
+  },
+  "2026-04-26": {
+    "date": "2026-04-26",
+    "logged_at": "2026-04-28T19:56:42.143066",
+    "btc_close": 76790.2,
+    "predictions": [],
+    "scored": false
+  },
+  "2026-04-15": {
+    "date": "2026-04-15",
+    "logged_at": "2026-04-28T19:56:40.736760",
+    "btc_close": 74701.6,
+    "predictions": [
+      {
+        "signal": "funding_flip",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": false,
+        "btc_close": 74701.6
+      },
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 74701.6
+      },
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 74701.6
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.770098",
+      "entry_price": 77781.3,
+      "exit_price": 76790.2,
+      "fwd_return": -0.0127,
+      "results": [
+        {
+          "signal": "funding_flip",
+          "direction": "long",
+          "fwd_return": -0.0127,
+          "correct": false
+        },
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": -0.0127,
+          "correct": false
+        },
+        {
+          "signal": "stablecoin_inflow",
+          "direction": "long",
+          "fwd_return": -0.0127,
+          "correct": false
+        }
+      ]
+    }
+  },
+  "2026-04-09": {
+    "date": "2026-04-09",
+    "logged_at": "2026-04-28T19:56:39.523588",
+    "btc_close": 72456.0,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 72456.0
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.770269",
+      "entry_price": 72863.0,
+      "exit_price": 75839.4,
+      "fwd_return": 0.0408,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.0408,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-10": {
+    "date": "2026-04-10",
+    "logged_at": "2026-04-28T19:56:39.726430",
+    "btc_close": 72863.0,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 72863.0
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.770423",
+      "entry_price": 70887.0,
+      "exit_price": 79270.5,
+      "fwd_return": 0.1183,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.1183,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-11": {
+    "date": "2026-04-11",
+    "logged_at": "2026-04-28T19:56:39.930041",
+    "btc_close": 70887.0,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 70887.0
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.770570",
+      "entry_price": 71868.1,
+      "exit_price": 78377.1,
+      "fwd_return": 0.0906,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.0906,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-12": {
+    "date": "2026-04-12",
+    "logged_at": "2026-04-28T19:56:40.134794",
+    "btc_close": 71868.1,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 71868.1
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.770713",
+      "entry_price": 75328.2,
+      "exit_price": 78043.7,
+      "fwd_return": 0.036,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.036,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-13": {
+    "date": "2026-04-13",
+    "logged_at": "2026-04-28T19:56:40.336261",
+    "btc_close": 75328.2,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 75328.2
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.770859",
+      "entry_price": 73843.8,
+      "exit_price": 77332.0,
+      "fwd_return": 0.0472,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.0472,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-14": {
+    "date": "2026-04-14",
+    "logged_at": "2026-04-28T19:56:40.536526",
+    "btc_close": 73843.8,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 73843.8
+      },
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 73843.8
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.771002",
+      "entry_price": 74701.6,
+      "exit_price": 78045.0,
+      "fwd_return": 0.0448,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.0448,
+          "correct": true
+        },
+        {
+          "signal": "stablecoin_inflow",
+          "direction": "long",
+          "fwd_return": 0.0448,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-16": {
+    "date": "2026-04-16",
+    "logged_at": "2026-04-28T19:56:40.922834",
+    "btc_close": 77781.3,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 77781.3
+      },
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 77781.3
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.771140",
+      "entry_price": 76171.6,
+      "exit_price": 76067.2,
+      "fwd_return": -0.0014,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": -0.0014,
+          "correct": false
+        },
+        {
+          "signal": "stablecoin_inflow",
+          "direction": "long",
+          "fwd_return": -0.0014,
+          "correct": false
+        }
+      ]
+    }
+  },
+  "2026-04-17": {
+    "date": "2026-04-17",
+    "logged_at": "2026-04-28T19:56:41.115680",
+    "btc_close": 76171.6,
+    "predictions": [
+      {
+        "signal": "extreme_fear",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 76171.6
+      },
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 76171.6
+      }
+    ],
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-28T19:56:42.771271",
+      "entry_price": 75851.1,
+      "exit_price": 76345.2,
+      "fwd_return": 0.0065,
+      "results": [
+        {
+          "signal": "extreme_fear",
+          "direction": "long",
+          "fwd_return": 0.0065,
+          "correct": true
+        },
+        {
+          "signal": "stablecoin_inflow",
+          "direction": "long",
+          "fwd_return": 0.0065,
+          "correct": true
+        }
+      ]
+    }
+  },
+  "2026-04-18": {
+    "date": "2026-04-18",
+    "logged_at": "2026-04-28T19:56:41.320591",
+    "btc_close": 75851.1,
+    "predictions": [
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 75851.1
+      }
+    ],
+    "scored": false
+  },
+  "2026-04-19": {
+    "date": "2026-04-19",
+    "logged_at": "2026-04-28T19:56:41.528295",
+    "btc_close": 75710.9,
+    "predictions": [
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 75710.9
+      }
+    ],
+    "scored": false
+  },
+  "2026-04-20": {
+    "date": "2026-04-20",
+    "logged_at": "2026-04-28T19:56:41.731428",
+    "btc_close": 75839.4,
+    "predictions": [
+      {
+        "signal": "funding_flip",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": false,
+        "btc_close": 75839.4
+      },
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 75839.4
+      }
+    ],
+    "scored": false
+  },
+  "2026-04-21": {
+    "date": "2026-04-21",
+    "logged_at": "2026-04-28T19:56:41.931473",
+    "btc_close": 79270.5,
+    "predictions": [
+      {
+        "signal": "stablecoin_inflow",
+        "direction": "long",
+        "expected": "BTC up",
+        "robust": true,
+        "btc_close": 79270.5
+      }
+    ],
+    "scored": false
+  },
+  "2026-04-27": {
+    "date": "2026-04-27",
+    "logged_at": "2026-04-28T19:56:42.361511",
+    "btc_close": 76067.2,
+    "predictions": [],
+    "scored": false
+  }
+}

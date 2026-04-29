@@ -1,0 +1,14 @@
+# Public edition — minimal deps. Stdlib unittest used (no pytest).
+
+# Core data
+pandas>=2.0
+numpy>=1.24
+
+# HTTP for public APIs (OKX, Alternative.me, DefiLlama, Coinalyze, Deribit)
+requests>=2.30
+
+# Time zones (public_forward_tracker uses zoneinfo, stdlib in 3.9+)
+# (no extra dep)
+
+# Optional: scientific stats for guardrails (bootstrap CIs, sig testing)
+scipy>=1.10

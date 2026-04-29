@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build / cache
+cache/
+*.csv
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Tracker artifacts (KEEP predictions.json — that IS the proof)
+tracker/*.lock
+tracker/*.tmp
+tracker/public/*.lock
+tracker/public/*.tmp
+
+# Secrets / keys (don't ever commit these)
+.env
+*.token
+.dashboard_auth_token
