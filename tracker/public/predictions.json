@@ -352,7 +352,21 @@
         "btc_close": 75851.1
       }
     ],
-    "scored": false
+    "scored": true,
+    "outcome": {
+      "scored_at": "2026-04-29T17:00:08.382247",
+      "entry_price": 75710.9,
+      "exit_price": 75668.5,
+      "fwd_return": -0.0006,
+      "results": [
+        {
+          "signal": "stablecoin_inflow",
+          "direction": "long",
+          "fwd_return": -0.0006,
+          "correct": false
+        }
+      ]
+    }
   },
   "2026-04-19": {
     "date": "2026-04-19",
@@ -410,6 +424,13 @@
     "date": "2026-04-27",
     "logged_at": "2026-04-28T19:56:42.361511",
     "btc_close": 76067.2,
+    "predictions": [],
+    "scored": false
+  },
+  "2026-04-29": {
+    "date": "2026-04-29",
+    "logged_at": "2026-04-29T17:00:08.381103",
+    "btc_close": 75668.5,
     "predictions": [],
     "scored": false
   }
